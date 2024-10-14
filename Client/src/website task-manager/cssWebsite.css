@@ -1,0 +1,24 @@
+   .conteiner img {
+    width: 110px;
+    position: relative;
+    left: 100px;
+   }
+
+   .conteiner {
+    position: relative;
+    top: -35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   }
+
+   .conteiner a {
+    position: absolute;
+    top: 32px;
+    left: 400px;
+   }
+
+   hr {
+    position: relative;
+    top: -60px;
+   }
