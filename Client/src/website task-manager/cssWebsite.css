@@ -12,10 +12,26 @@
     align-items: center;
    }
 
-   .conteiner a {
+   .texts {
     position: absolute;
-    top: 32px;
-    left: 400px;
+    left: 300px;
+    display: flex;
+    align-items: center;
+   }
+   
+   .input {
+    display: flex;
+    align-items: center;
+   }
+
+   #registro {
+    position: absolute;
+    left: 1050px;
+   }
+
+   #entrar {
+    position: absolute;
+    left: 1200px;
    }
 
    hr {
