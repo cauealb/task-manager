@@ -1,40 +1,33 @@
    .conteiner img {
     width: 110px;
-    position: relative;
-    left: 100px;
+    margin-left: 110px;
    }
 
    .conteiner {
-    position: relative;
-    top: -35px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: -35px;
    }
 
    .texts {
-    position: absolute;
-    left: 300px;
     display: flex;
     align-items: center;
+    margin-right: 700px;
+   }
+
+   a {
+      color: inherit;
+      text-decoration: none;
    }
    
    .input {
     display: flex;
     align-items: center;
-   }
-
-   #registro {
-    position: absolute;
-    left: 1050px;
-   }
-
-   #entrar {
-    position: absolute;
-    left: 1200px;
+    gap: 80px;
+    margin-right: 180px;
    }
 
    hr {
-    position: relative;
-    top: -60px;
+    margin-top: -20px;
    }
