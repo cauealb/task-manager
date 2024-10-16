@@ -1,19 +1,19 @@
    .conteiner img {
-    width: 110px;
-    margin-left: 110px;
+      width: 110px;
+      margin-left: 110px;
    }
 
    .conteiner {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: -35px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: -35px;
    }
 
    .texts {
-    display: flex;
-    align-items: center;
-    margin-right: 700px;
+      display: flex;
+      align-items: center;
+      margin-right: 700px;
    }
 
    a {
@@ -22,12 +22,12 @@
    }
    
    .input {
-    display: flex;
-    align-items: center;
-    gap: 80px;
-    margin-right: 180px;
+      display: flex;
+      align-items: center;
+      gap: 80px;
+      margin-right: 180px;
    }
 
    hr {
-    margin-top: -20px;
+      margin-top: -20px;
    }
