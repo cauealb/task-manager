@@ -47,3 +47,11 @@
       font-size: 50px;
       margin-left: 100px;
    }
+
+  .button-enter {
+   display: flex;
+   margin-top: 130px;
+   margin-left: -555px;
+   width: 500px;
+   height: 100px;
+  }
