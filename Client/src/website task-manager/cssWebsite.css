@@ -1,3 +1,8 @@
+   * {
+      margin: 0;
+      padding: 0;
+   }
+   
    .conteiner img {
       width: 110px;
       margin-left: 110px;
@@ -28,6 +33,17 @@
       margin-right: 180px;
    }
 
-   hr {
+   .bloco-color {
+      display: flex;
+      align-items: center;
       margin-top: -20px;
+      height: 80vh;
+      background-color: gold;
+   }
+
+   .bloco-color p {
+      margin-top: -100px;
+      color: white;
+      font-size: 50px;
+      margin-left: 100px;
    }
