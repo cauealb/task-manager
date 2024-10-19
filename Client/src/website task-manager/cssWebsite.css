@@ -35,23 +35,26 @@
 
    .bloco-color {
       display: flex;
-      align-items: center;
+      justify-content: center;
+      flex-direction: column;
       margin-top: -20px;
       height: 80vh;
       background-color: gold;
    }
 
-   .bloco-color p {
-      margin-top: -100px;
-      color: white;
-      font-size: 50px;
+   .bloco-color p, button {
       margin-left: 100px;
    }
+   
+   .bloco-color p {
+      font-family: cursive;
+      color: white;
+      font-size: 60px;
+   }
 
-  .button-enter {
-   display: flex;
-   margin-top: 130px;
-   margin-left: -555px;
-   width: 500px;
-   height: 100px;
-  }
+   .bloco-color button{
+      height: 90px;
+      width: 500px;
+   }
+
+   
